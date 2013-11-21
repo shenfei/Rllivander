@@ -1,0 +1,12 @@
+Package: Rllivander
+Type: Package
+Title: Some R toolkits
+Version: 0.1
+Date: 2013-11-20
+Author: SHEN Fei <shenfei361@gmail.com>
+Maintainer: SHEN Fei <shenfei361@gmail.com>
+Description: Some algorithm toolkits about machine learning and data mining
+License: GPL (>=2)
+Encoding: UTF-8
+Depends: R (>= 3.0), Rcpp (>= 0.10.6), doParallel, Matrix
+LinkingTo: Rcpp

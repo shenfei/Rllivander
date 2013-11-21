@@ -1,0 +1,2 @@
+useDynLib(Rllivander)
+exportPattern("^[[:alpha:]]+")
