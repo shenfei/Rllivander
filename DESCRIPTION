@@ -8,5 +8,5 @@ Maintainer: SHEN Fei <shenfei361@gmail.com>
 Description: Some algorithm toolkits about machine learning and data mining
 License: GPL (>=2)
 Encoding: UTF-8
-Depends: R (>= 3.0), Rcpp (>= 0.10.6), doParallel, Matrix
+Depends: R (>= 3.0), Rcpp (>= 0.10.6), doParallel, Matrix, dplyr
 LinkingTo: Rcpp
